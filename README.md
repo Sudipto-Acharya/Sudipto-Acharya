@@ -14,9 +14,9 @@
 
 🔭 I'm currently working on **Building secure, cost-optimised AWS infrastructure and automated CI/CD pipelines for production workloads**
 
-👯 I'm looking to collaborate on **Open-source DevOps tooling, Terraform modules, or AWS infrastructure automation projects**
+👯 **Open-source DevOps tooling, Terraform modules, or AWS infrastructure automation projects**
 
-🤝 I'm looking for help with **Kubernetes internals and CKA exam preparation**
+🤝 **Kubernetes internals and CKA exam preparation**
 
 🌱 I'm currently learning **Kubernetes (CKA in progress) and advanced AWS networking & security patterns**
 
