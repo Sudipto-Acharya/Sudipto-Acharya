@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sudipto-Acharya/Sudipto-Acharya/main/banner.svg" alt="Sudipto Acharya DevOps Banner" width="100%"/>
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sudipto+Acharya;DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;Automating+Everything+%F0%9F%9A%80;Breaking+Pipelines...+then+Fixing+Them+%F0%9F%94%A7" alt="Typing SVG"/>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Sudipto+Acharya;DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+Terraform+%7C+Docker+%7C+CI%2FCD;Automating+Everything+%F0%9F%9A%80;Breaking+Pipelines...+then+Fixing+Them+%F0%9F%94%A7" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=Sudipto-Acharya&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -14,7 +10,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="DevOps GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="DevOps Coder" width="360" src="https://raw.githubusercontent.com/Sudipto-Acharya/Sudipto-Acharya/main/coding.gif"/>
 
 🔭 I'm currently working on **Building secure, cost-optimised AWS infrastructure and automated CI/CD pipelines for production workloads**
 
@@ -83,5 +79,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sudipto-Acharya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+
+[![](https://komarev.com/ghpvc/?username=Sudipto-Acharya&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
